@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../laravel/ELITECS"
+		},
+		{
+			"path": "../../www"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

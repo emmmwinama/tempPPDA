@@ -1,0 +1,260 @@
+#homehero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(../../public/images/hero.jpg);
+  background-position: top;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#herotext {
+  background-color: transparent;
+}
+
+.mottos .vision h1.large-text {
+  font-size: 60px;
+  font-weight: 800;
+}
+
+.mottos .vision .heading {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.motto-section {
+  padding: 20px;
+}
+
+.section-wrapper {
+  padding: 70px 0;
+}
+
+.mottos .col-md-6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.section-title {
+  font-size: 30px;
+  text-transform: capitalize;
+  font-weight: 900;
+}
+
+.section-label span {
+  color: #38b34b;
+  font-size: large;
+  font-style: italic;
+  font-weight: 900;
+}
+
+.trends .project-title {
+  font-size: large;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.trends .project-img {
+  background-image: url(../../public/images/hero.jpg);
+  background-position: top;
+  background-attachment: inherit;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.trends .img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.trends .trend:nth-child(even) {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.section-title-divider {
+  height: 5px;
+  width: 60px;
+  background-color: #38b34b;
+}
+
+.statistics .statline .number h1 {
+  font-size: 50px;
+  font-weight: 1000;
+  color: #629d97;
+}
+
+.statistics .statline > div,
+.statistics .statline .col-lg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.statistics .statline {
+  max-width: 400px;
+}
+
+.footer-bottom .footer-bottom-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-bottom {
+  background-color: #081a0c;
+  color: wheat;
+}
+
+.footer-header {
+  background-color: #282e29;
+  color: #ffffff;
+}
+
+.footer-header .row .col-md,
+.footer-header .row .col-md-auto {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 20px 0;
+}
+
+.footer-section-title h1 {
+  font-weight: 600;
+  text-align: left;
+  font-size: 20px;
+}
+
+.footer-section-body li {
+  text-align: center;
+}
+
+.footer-social {
+  font-size: 30px;
+}
+
+.map div,
+.map iframe {
+  width: 100%;
+  border: 1px blue solid;
+}
+
+.trends .project-title {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  color: #f7fafc;
+  font-weight: 900;
+  font-size: x-large;
+  background: rgba(56, 179, 75, 0.4);
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.trends .project-text p {
+  border: 1px solid greenyellow;
+  width: 100%;
+}
+
+.project-sum-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.statline-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.statline-content > * {
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.statline-number {
+  font-size: xxx-large;
+  font-weight: 900;
+  color: #1d4722;
+}
+
+.statline-text {
+  text-align: center;
+}
+
+.downloads-title {
+  font-size: x-large;
+  font-weight: 900;
+}
+
+.downloads-head .downloads-text-content > * {
+  padding: 5px;
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("../../public/images/page-hero.jpg");
+  height: 350px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.newsletter-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("../../public/images/news.jpg");
+  height: 10vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text.general-hero {
+  color: #cecece;
+  font-size: 2vw;
+}
+
+.sp-search .btn {
+  background-color: #0b5ed7;
+  color: white;
+}
+
+.sp-search .btn:hover {
+  background-color: #0848a8;
+  color: white;
+}
+
+.sp-tables .table-utils {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.dataTables_filter,
+.dataTables_length {
+  margin-bottom: 10px;
+}
+
+.notice-content select {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+}
+
+.btn-custom {
+  background-color: #38B34B;
+  color: whitesmoke;
+}/*# sourceMappingURL=custom.css.map */

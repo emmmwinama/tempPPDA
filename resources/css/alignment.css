@@ -1,0 +1,26 @@
+.box {
+    direction: rtl;
+    display: flex;
+    justify-content: flex-end;
+}
+.box1 {
+    direction: rtl;
+    display: flex;
+    justify-content: flex-end;
+}
+.box2 {
+    direction: rtl;
+    display: flex;
+    justify-content: flex-end;
+}
+h1 {
+    text-align: left;
+}
+
+h2 {
+    text-align:center;
+}
+
+h3 {
+    text-align: right;
+}

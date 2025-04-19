@@ -1,0 +1,86 @@
+{
+  "resources/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400.404c746c.woff2",
+    "src": "resources/webfonts/fa-brands-400.woff2"
+  },
+  "resources/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900.d76fb4e8.woff2",
+    "src": "resources/webfonts/fa-solid-900.woff2"
+  },
+  "resources/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400.6a274e76.woff2",
+    "src": "resources/webfonts/fa-regular-400.woff2"
+  },
+  "resources/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility.0db31bef.woff2",
+    "src": "resources/webfonts/fa-v4compatibility.woff2"
+  },
+  "public/images/news.jpg": {
+    "file": "assets/news.1829cced.jpg",
+    "src": "public/images/news.jpg"
+  },
+  "public/images/page-hero.jpg": {
+    "file": "assets/page-hero.cc94fa89.jpg",
+    "src": "public/images/page-hero.jpg"
+  },
+  "public/images/hero.jpg": {
+    "file": "assets/hero.3a0b76f9.jpg",
+    "src": "public/images/hero.jpg"
+  },
+  "resources/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400.4e96a7e0.ttf",
+    "src": "resources/webfonts/fa-regular-400.ttf"
+  },
+  "resources/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility.86a687cf.ttf",
+    "src": "resources/webfonts/fa-v4compatibility.ttf"
+  },
+  "resources/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400.e523f49c.ttf",
+    "src": "resources/webfonts/fa-brands-400.ttf"
+  },
+  "resources/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900.03f2986c.ttf",
+    "src": "resources/webfonts/fa-solid-900.ttf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.d225c007.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/all.js": {
+    "file": "assets/all.d9e42d08.js",
+    "src": "resources/js/all.js",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.f4d07a83.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/card.css": {
+    "file": "assets/card.ce231905.css",
+    "src": "resources/css/card.css",
+    "isEntry": true
+  },
+  "resources/css/custom.css": {
+    "file": "assets/custom.ae324ab8.css",
+    "src": "resources/css/custom.css",
+    "isEntry": true
+  },
+  "resources/css/fontawesome.css": {
+    "file": "assets/fontawesome.68103903.css",
+    "src": "resources/css/fontawesome.css",
+    "isEntry": true
+  },
+  "resources/css/all.css": {
+    "file": "assets/all.1fb0bf93.css",
+    "src": "resources/css/all.css",
+    "isEntry": true
+  },
+  "resources/css/filament.css": {
+    "file": "assets/filament.841bffb5.css",
+    "src": "resources/css/filament.css",
+    "isEntry": true
+  }
+}

@@ -1,0 +1,17 @@
+<?php
+
+namespace App\Filament\Resources\AwardNoticeResource\Pages;
+
+use App\Filament\Resources\AwardNoticeResource;
+use Filament\Pages\Actions;
+use Filament\Resources\Pages\CreateRecord;
+
+class CreateAwardNotice extends CreateRecord
+{
+    protected static string $resource = AwardNoticeResource::class;
+
+    protected function getRedirectUrl(): string
+    {
+        return $this->getResource()::getUrl('index');
+    }
+}
